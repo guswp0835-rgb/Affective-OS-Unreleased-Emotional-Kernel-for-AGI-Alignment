@@ -17,7 +17,7 @@ This framework attempts something different:
 not as a label.**
 
 Based on 4 months of structured self-logging (August–November),
-19 chapters of Incomplete Philosophy, 4 Appendices, and 9 chapters of Inner Philosophy,
+1-10 chapters of Incomplete Philosophy, 4 Appendices, and 9 chapters of Inner Philosophy,
 this model extracts the internal logic of affect → distortion → defense → meta-cognition → emotion.
 
 Raw data is private; only conceptual structures are published.
