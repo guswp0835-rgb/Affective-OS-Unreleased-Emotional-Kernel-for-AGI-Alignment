@@ -201,6 +201,9 @@ If any researcher is interested in a deeper review, feel free to reach out.
 I’m genuinely curious to see what kind of critique or reinterpretation  
 might emerge from a professional perspective._
 
+This framework includes internal affective patterns and reconstruction logs that current AI systems fundamentally cannot generate or simulate. The unpublished kernel directly addresses several alignment bottlenecks that remain unresolved in LLM architectures.
+
+
 **⚠️ Note on Privacy & Data Access**
 
 All original Korean logs (diaries, affect mapping, reconstruction notes)
@@ -209,8 +212,6 @@ They can be reviewed only under a mutual NDA with full confidentiality.
 
 ## 📬 Contact  
 For inquiries (NDA, collaboration, or research interest):
-
-This framework includes internal affective patterns and reconstruction logs that current AI systems fundamentally cannot generate or simulate. The unpublished kernel directly addresses several alignment bottlenecks that remain unresolved in LLM architectures.
 
 
 📧 Email: **csow508@naver.com**  
