@@ -182,7 +182,7 @@ Internal theory, mechanisms, metaphors, and philosophical cores are intentionall
 
 ---
 
-## Author’s Note (High-Tone, Subtle Provocation)
+## Author’s Note 
 
 _The modules listed above represent only a fragment of the actual architecture.  
 The core mechanism remains unreleased, as exposing the conceptual heart  
