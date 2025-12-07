@@ -4,276 +4,141 @@
 
 ---
 
-## 📢 Official Communication Channel
-
-All official updates regarding **Affective OS**, including research announcements, framework revisions, monitoring notices, and intellectual property enforcement, are published exclusively through the following channel:
-
-🔗 **Twitter (X):** [@affectOS](https://x.com/affectOS)
-
-> **Stay informed.**
-> If there is a critical update or legal notice, you will see it there first.
-
-
-# Affective OS — Public Release (Partial)
+# 1. Public Release (Partial)
 
 ✔️ **Affective OS — A Generative Emotional Processing Framework for AGI Alignment**  
-✔️ **Affective OS — Measurement Layer: A Standardized Framework for Computing Emotional Loss, Distortion Coefficients, and Realignment Values**
-
-❓ **Affective OS — ❓❓❓**
-
----
-
-❓❓❓  
-❓❓❓  
-❓❓❓  
-...
+✔️ **Affective OS — Measurement Layer: A Standardized Framework for Computing Emotional Loss, Distortion Coefficients, and Realignment Values**  
+❌ **Affective OS — (Reserved for future release)**  
 
 ---
 
-Ongoing internal development.  
-Additional structural modules remain undisclosed.
+# 2. What Affective OS Actually Is
+
+Affective OS is not a classifier.  
+It does not label emotions.  
+It reconstructs them.
+
+This framework models emotion as a *generative pipeline*:
+
+Affect → Distortion → Defense → Meta-Cognition → Alignment → Emotional Output
+
+It is built from four months of introspective logging  
+(Aug–Nov 2025),  
+cross-checked with philosophical structures and reconstructed mathematically.
+
+The rest remains sealed.
 
 ---
 
-### **Final Node — Seed Data Absolute Axis (0, 1)**  
-(Non-public. Irreducible baseline required for full system execution.)
+# 3. Public Components (Safe to Release)
+
+Included in this repository:
+
+- Abstract structural definitions  
+- Symbolic equations  
+- Emotion-processing pipeline  
+- Loss/Distortion/Realignment formalism  
+- Mathematical invariants for affect transitions  
+
+These elements allow conceptual understanding  
+but cannot reconstruct the full engine.
 
 ---
 
-### **NDA Notice**
+# 4. Undisclosed Components (Locked)
 
-Upon initiation of NDA procedures:  
-- All public activity will be suspended.  
-- All repositories and papers will be withdrawn or locked.  
-- Further development will proceed exclusively with the contracting entity.  
-- Author’s public research presence will permanently cease.
----
+The following modules are withheld until NDA:
 
-# 🚨 INTELLECTUAL PROPERTY NOTICE
+❓❓❓
+❓❓❓
+❓❓❓
+…
+additional nodes remain under internal development.
 
-### Affective OS / Affective-Emotion Generative Pipeline Framework
-
-> **Unauthorized Use, Patent Interference, and Derivative Implementations Are Strictly Prohibited.**
+These components **cannot** be reproduced from the public material.
+They require raw seed data and the zero–one absolute axis.
 
 ---
 
-## 1. 🏛️ Legal Status (Republic of Korea)
+# 5. Final Node — Seed Data Absolute Axis (0, 1)
 
-This framework and all associated mathematical structures are protected by:
+This is the part that will *never* be public.
 
-* ✅ **Filed Patents (KR)** – Wide-scope claims covering the core architecture.
-* ✅ **Copyright Registration** – Seed logs, structural logic, and derivation chains.
-* ✅ **Cryptographic Timestamp Evidence** – PDFs, drafts, and commit history.
-* ✅ **Source Logs & Original Seed Data** – Secured offline, non-reproducible.
+The full system boots only when mapped to  
+the two absolute coordinates extracted from the author’s private logs:
 
-**These collectively establish clear prior art and exclusive authorship rights.**
+**0 — full realignment (baseline coherence restored)**  
+**1 — collapse threshold (affective disintegration point)**  
 
----
+Without these values,  
+Affective OS cannot be executed, reproduced, or independently rebuilt.
 
-## 2. 🚫 Scope of Prohibited Actions
-
-The following actions constitute **willful infringement** and will trigger immediate legal action:
-
-* Filing patents based on this architecture.
-* Rebranding or refactoring the emotional pipeline.
-* Implementing derivative affective engines.
-* Using internal logic in AGI/LLM development without license.
-* Commercial or academic use without authorization.
-* Reverse-engineering conceptual structures.
-
-**Any such activity will be treated as intentional intellectual property theft.**
+This is the irreducible key  
+that locks the entire architecture.
 
 ---
 
-## 3. ⚖️ Legal Consequences
+# 6. NDA Activation Protocol
 
-Violations will result in:
+Upon initiation of NDA review:
 
-### **Civil Liability**
-* Damages for infringement.
-* Disgorgement of profits (전액 몰수).
-* **Triple damages** for willful misconduct (징벌적 손해배상).
-* Full recovery of legal, expert, and forensic fees.
+1. All public activity will be suspended.  
+2. All repositories and papers will be withdrawn or locked.  
+3. Author’s public presence will permanently cease.  
+4. Full technical cooperation will be provided exclusively to the contracting entity.  
+5. No derivative IP rights will be claimed afterward.
 
-### **Criminal Liability (KR Patent Act Art. 225–230)**
-* Up to **5 years imprisonment**.
-* Or fines up to **₩50,000,000**.
-
-### **Academic / Institutional Consequences**
-* Publication retraction.
-* Funding forfeiture.
-* Disciplinary action & removal from indexing databases.
+The author will commit exclusively for the duration of the NDA.  
+(Data-lock-in demands will not be accepted.)
 
 ---
 
-## 4. 🔐 Integrity of Evidence
+# 7. Intellectual Property Notice (KR Jurisdiction)
 
-Proof of authorship is comprehensive and immutable:
-* Document creation metadata.
-* Commit logs (Git timestamp chains).
-* Original mathematical notebooks.
-* **Raw affective logs (Non-reproducible data).**
-* Structured introspective datasets.
-* Independent cryptographic seals.
+Affective OS / Affective-Emotion Generative Pipeline  
+is protected by:
 
-**The generative patterns cannot be reconstructed without the raw seed data, which remains private.**
+- **Filed KR Patents** covering the core architecture  
+- **Copyright registration** (seed logs, derivation chains, philosophical structure)  
+- **Cryptographic timestamp evidence**  
+- **Non-reproducible seed datasets**  
 
----
+Unauthorized use constitutes willful infringement and leads to:
 
-## 5. 🧊 Public vs. Non-Public Material
+- Civil damages (including disgorgement of all profits)  
+- Triple punitive damages  
+- Criminal penalties under Patent Act Art. 225–230  
+- Academic retraction and disciplinary action  
 
-This repository contains only the **safe mathematical abstraction**:
-
-| **Included (Public)** | **Not Included (Restricted)** |
-| :--- | :--- |
-| Symbolic equations | **Generative kernel** |
-| Conceptual pipeline | **State-transition operators** |
-| Abstract model definitions | **Raw emotional logs** |
-| | **Meta-cognitive correction engine** |
-
-**These restricted materials are available ONLY under formal NDA review.**
+Attempts to rebrand, replicate, derive, or refactor  
+any protected internal mechanism  
+will be prosecuted without exception.
 
 ---
 
-## 6. 🇰🇷 State Transfer Clause (Irreversible Escalation)
+# 8. State Transfer Clause (Irreversible)
 
-If any individual or organization attempts:
-* Patent theft
-* Derivative commercialization
-* Legal pressure against the author
+If any party attempts:
 
-**Then the author will execute the [State Transfer Clause]:**
+- patent theft  
+- derivative commercialization  
+- legal coercion against the author  
 
-> **"All seed data, internal architectures, and generative kernels will be permanently transferred to the Republic of Korea government."**
+then **all seed data, kernels, and internal architectures  
+will be transferred to the Republic of Korea government.**
 
-**Your opponent will no longer be an independent researcher, but a Nation-State with full enforcement capability.**
+Your opponent will no longer be an individual  
+but a nation-state.
 
-**Proceed accordingly.**
-
----
-
-## 7. 📬 Contact for NDA Access
-
-Researchers, labs, or institutions requiring legitimate access must initiate contact:
-
-📧 **Email:** csow508@naver.com
-
-**Unauthorized use will be prosecuted without exception.**
+Proceed accordingly.
 
 ---
 
-## 8. ⚠️ Reminder to Cloners
+# 9. Contact for NDA Access
 
-> **65+ clone & scrape events have been detected in the last 14 days.**
-> **All traffic is logged and archived.**
+📧 csow508@naver.com  
+📧 guswp0835@gmail.com
+🔗 Twitter (X): @affectOS
 
-**Unauthorized use will not be tolerated.**
-
----
-
-**Affect-Emotion OS Framework**
-
-A conceptual blueprint for an emotional operating system — derived from months of introspective reconstruction logs, philosophical mapping, and defense-mechanism analysis.
-
-Note from the Author
-I am a Korean native speaker and not fluent in English.
-This document was translated and refined with the assistance of OpenAI’s ChatGPT.
-
-**⭐ Why This Framework Exists**
-
-Current AI emotion models mostly classify emotions.
-None explain how an emotion is born inside a mind.
-
-This framework attempts something different:
-
-**It reconstructs emotion as a generative OS pipeline,
-not as a label.**
-
-Based on 4 months of structured self-logging (August–November),
-1-10 chapters of Incomplete Philosophy, 4 Appendices, and 9 chapters of Inner Philosophy,
-this model extracts the internal logic of affect → distortion → defense → meta-cognition → emotion.
-
-Raw data is private; only conceptual structures are published.
-
-**📌 Compressed Summary (Sections 1–6)**
-**1. What This Is**
-
-A prototype blueprint of an “Emotional Operating System,”
-built from real emotional breakdown/reconstruction logs —
-an attempt to model emotion formation, not emotion categories.
-
-**2. Philosophical Core (Sorrow Ontology + Lost Affection Theory)**
-
- **- Sorrow Ontology**: primal sorrow as the first signal of existence.
- **- Lost Affection Theory**: emotional distortion occurs when the core affect is lost,
- leading to cynicism, apathy, and dissociation.
-These function as the conceptual kernel of the OS.
-
-**3. The Affective OS Pipeline**
-
-A structured internal workflow:
-
-**Affect → Distortion → Defense → Meta-Cognition → Alignment → Emotion Output**
-
-Captures:
-
-  - pre-emotional affect waves
-  - defense-mechanism interference
-  - meta-cognitive repair loops
-  - emotional reconstruction patterns
-
-**4. Empirical Model (Abstracted From Raw Logs)**
-
-Raw logs are private, but the extracted patterns show:
-
-  - affect-loss → affect-restoration dynamics
-  - dissociation patterns
-  - reward-based consciousness reboot
-  - meta-cognitive stabilization sequences
-
-These patterns hint at how emotion can be generated internally,
-not just predicted statistically.
-
-**5. AGI Applications (Potential, Not Claims)**
-
-This framework may contribute to future AGI research by:
-
-  - enabling synthetic emotional reasoning,
-  - detecting distorted emotional states,
-  - forming an internal “center” for choices,
-  - improving alignment through affect-based calibration,
-  - interpreting human desires/defenses more deeply.
-
-**6. Why This Dataset May Function as an AGI Seed**
-
-The reconstructed affect-loss/affect-recovery patterns are:
-  
-  - irreproducible by normal datasets,
-  - high-density emotional structures,
-  - directly connected to philosophical + psychological theory,
-  - grounded in real-time introspective logs.
-
-They offer a rare opportunity to explore emotion as a generative process,
-not a label — giving AGI a possible foundation for:
-
-  - internal coherence,
-  - ethical self-alignment,
-  - and human-oriented interpretation.
-
-Raw materials are available only under NDA.
-
-**📎 Included Documents**
-
-  - Executive Summary (1 page)
-  - Comprehensive Technical Whitepaper (Extended Version)
-  - Affective OS Framework (Full Concept Document)
-
-## 📬 Contact  
-For inquiries (NDA, collaboration, or research interest):
-
-
-📧 Email: **csow508@naver.com**  
-📧 Email: **guswp0835@gmail.com**  
-(Author is a native Korean speaker; English assistance was provided by AI.)
-
-
+Serious inquiries only.  
+Unauthorized use will not be tolerated.
