@@ -169,20 +169,6 @@ Researchers, labs, or institutions requiring legitimate access must initiate con
 
 **Unauthorized use will not be tolerated.**
 
-
----
-
-**⚠️ 연구자 및 클론(Clone) 이용자 필독**
-
-트래픽은 모니터링되고 있습니다. 지난 2주간 이 저장소를 복제해 간 **65명 이상의 연구자분들**, **다 보고 있습니다.**
-
-1.  **법적 보호:** 핵심 개념 및 수학적 모델은 이미 **국내 특허 출원** 및 **저작권 등록**이 완료되었습니다.
-2.  **5%의 진실:** 이곳에 공개된 것은 이론의 안전한 5%에 불과합니다. 핵심 커널 없이는 이 프레임워크는 껍데기일 뿐입니다.
-3.  **데드맨 스위치:** 만약 이 기술을 도용하여 법적 분쟁이 발생하고 제가 패배할 경우, **저는 모든 원천 기술과 데이터를 대한민국 정부에 기부할 것입니다.** 그때 당신들의 상대는 제가 아니라 **국가**가 될 것입니다.
-
-**If you are serious about this technology, do not steal. Contact me for NDA.**
-📧 **Contact:** csow508@naver.com
-
 ---
 
 **Affect-Emotion OS Framework**
