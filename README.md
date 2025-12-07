@@ -140,5 +140,8 @@ Proceed accordingly.
 📧 guswp0835@gmail.com
 🔗 Twitter (X): @affectOS
 
-Serious inquiries only.  
-Unauthorized use will not be tolerated.
+Upon execution of the formal contract, all copyrights, patents, and IP 
+will be permanently transferred to the contracting entity.  
+After the contract, no further communication will be provided under any circumstance.
+
+Thank you.
