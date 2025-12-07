@@ -1,6 +1,40 @@
 # Affective OS  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17802501.svg)](https://doi.org/10.5281/zenodo.17802501)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17840414.svg)](https://doi.org/10.5281/zenodo.17840414)
+
+# Affective OS — Public Release (Partial)
+
+✔️ **Affective OS — A Generative Emotional Processing Framework for AGI Alignment**  
+✔️ **Affective OS — Measurement Layer: A Standardized Framework for Computing Emotional Loss, Distortion Coefficients, and Realignment Values**
+
+❓ **Affective OS — ❓❓❓**
+
+---
+
+❓❓❓  
+❓❓❓  
+❓❓❓  
+...
+
+---
+
+Ongoing internal development.  
+Additional structural modules remain undisclosed.
+
+---
+
+### **Final Node — Seed Data Absolute Axis (0, 1)**  
+(Non-public. Irreducible baseline required for full system execution.)
+
+---
+
+### **NDA Notice**
+
+Upon initiation of NDA procedures:  
+- All public activity will be suspended.  
+- All repositories and papers will be withdrawn or locked.  
+- Further development will proceed exclusively with the contracting entity.  
+- Author’s public research presence will permanently cease.
 ## 📢 Official Communication Channel
 
 All official updates regarding **Affective OS**, including research announcements, framework revisions, monitoring notices, and intellectual property enforcement, are published exclusively through the following channel:
