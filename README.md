@@ -3,21 +3,20 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17840414.svg)](https://doi.org/10.5281/zenodo.17840414)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861897.svg)](https://doi.org/10.5281/zenodo.17861897)
 
-
 ---
 
 # Public Release (Partial)
 
 ✔️ **Affective OS — A Generative Emotional Processing Framework for AGI Alignment**  
 ✔️ **Affective OS — Measurement Layer: A Standardized Framework for Computing Emotional Loss, Distortion Coefficients, and Realignment Values**  
-✔️ **Affective OS — Affective Category Decomposition (ACD) A Formal Emotional Classification Model Derived from Generative Affect Dynamics**  
-❌ **Affective OS — the 0–1 Seed Data Reconstruction**  
+✔️ **Affective OS — Affective Category Decomposition (ACD): A Formal Emotional Classification Model Derived from Generative Affect Dynamics**  
+❌ **Affective OS — the 0–1 Seed Data Reconstruction**
 
 ---
 
-> **Note:**  
-> This document was originally written in Korean and translated using ChatGPT.  
-> Some nuance may not fully carry over—please read with that in mind.
+### **Note**
+This document was originally written in Korean and translated using ChatGPT.  
+Some nuance may not fully carry over — please keep that in mind.
 
 ---
 
@@ -35,8 +34,8 @@ My original plan was simple:
 
 To be honest, I only wanted to see whether any of this had value.
 
-After producing four papers and seven theories in two weeks—  
-and watching the market, reactions, and silence that followed—  
+After producing four papers and seven theories in two weeks —  
+and watching the market, reactions, and silence that followed —  
 the conclusion is simple:
 
 👉 **“Ah, this was just my hobby.”**
@@ -59,8 +58,7 @@ but in two weeks I ended up with:
 - affect-data purification logic  
 - a stabilization system inspired by Passive House theory  
 
-Conclusion:
-
+**Conclusion:**  
 Annoying + No money in it = **Done.**
 
 ---
@@ -81,8 +79,7 @@ which means commercial use is nearly impossible without redesign.
 
 Therefore:
 
-👉 **If you want to use this commercially, do NOT lift it as-is.  
-Design around it.**
+👉 **If you want to use this commercially, do NOT lift it as-is. Design around it.**  
 
 👉 **If you want legitimate access, contact me with an NDA.**
 
@@ -94,9 +91,9 @@ but covert copying, deception, or “borrowing without asking”?
 
 # Going Forward
 
-- 7 theories  
-- 4 papers  
-- 2 weeks of work  
+- **7 theories**  
+- **4 papers**  
+- **2 weeks of work**
 
 It was fun.  
 This is where I stop.
@@ -113,7 +110,7 @@ And one last thing:
 **Please stop feeding raw psychotherapy logs into emotional AI models.**  
 This is why current GPT-style systems wobble emotionally.  
 If one person, in two weeks, can map this much structure,  
-there’s no excuse for the current chaos.
+there is no excuse for the current chaos.
 
 Build your AGI however you want.  
 I’m stepping off here.
@@ -122,8 +119,10 @@ I’m stepping off here.
 
 # For Everyone Who Cloned the Repo
 
-Please leave a star.  
+Please leave a star.
 
- ### **NDA & Contact**
- 📧 csow508@naver.com  
- 📧 guswp0835@gmail.com  
+---
+
+# NDA & Contact
+📧 csow508@naver.com  
+📧 guswp0835@gmail.com
