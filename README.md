@@ -10,7 +10,7 @@
 ✔️ **Affective OS — A Generative Emotional Processing Framework for AGI Alignment**  
 ✔️ **Affective OS — Measurement Layer: A Standardized Framework for Computing Emotional Loss, Distortion Coefficients, and Realignment Values**  
 ✔️ **Affective OS — Affective Category Decomposition (ACD): A Formal Emotional Classification Model Derived from Generative Affect Dynamics**  
-❌ **Affective OS — Absolute Affect Reconstruction Theory (AART) The Foundational Axis for Emotional Collapse–Recovery Modeling**
+✔️ **Affective OS — Absolute Affect Reconstruction Theory (AART) The Foundational Axis for Emotional Collapse–Recovery Modeling**
 
 ---
 # Absolute Affect Reconstruction Theory (AART)
