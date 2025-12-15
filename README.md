@@ -14,18 +14,6 @@
 
 ---
 
-### **Note**
-This document was originally written in Korean and translated using ChatGPT.  
-Some nuance may not fully carry over — please keep that in mind.
-
----
-
-# For Everyone Who Cloned the Repo
-
-Please leave a star.
-
----
-
 # NDA & Contact
 📧 csow508@naver.com  
 📧 guswp0835@gmail.com
